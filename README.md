@@ -1,4 +1,4 @@
-# WebGL Template
+# Paper Morph
 
 Hi :)
 
